@@ -1,4 +1,8 @@
-Vector Skin
+
+https://github.com/jcklpe/udscbt-userstyles/tree/master/Wikipedia
+
+
+Uni Skin
 ========================
 
 Configuration options
